@@ -1,3 +1,5 @@
+//read through deleted files to recover jpg only
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
