@@ -1,3 +1,7 @@
+#blackjack game that allow player to hit/stand
+#player starts with $500, keep track of player earnings and losses
+#made with Classes eg. card, deck, hand, chips
+
 import random
 
 #setup deck , cards and hand calss
