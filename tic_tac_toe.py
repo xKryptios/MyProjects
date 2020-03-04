@@ -1,3 +1,5 @@
+#a tic tac toe game for 2 players to play on the same computer
+
 from random import randint
 
 def display_board(board):
